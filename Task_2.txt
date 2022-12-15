@@ -1,0 +1,1 @@
+git revert <insert bad commit hash here> git revert creates a new commit with the changes that are rolled back. git reset erases your Git history instead of making a new commit. The steps after are the same as any other commit.
